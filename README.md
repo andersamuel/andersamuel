@@ -27,6 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://docs.microsoft.com/en-US/sql/sql-server/?view=sql-server-ver16" target="_blank">
-    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="sql" width="40" height="40" />
+    <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" alt="sql" width="40" height="40" />
   </a>
 </p>
