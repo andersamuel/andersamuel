@@ -77,6 +77,7 @@
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andersamuel&theme=react&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersamuel&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td>
 </tr>
