@@ -1,84 +1,33 @@
-<table width="800px">
-<thead>
-<tr>
-<th colspan="2" align='left'>
-
-<span align="center">
-
-## About Me
-
-</span>
+<h1 align="center">About Me</h1>
 
 - ♿ I am 23 years old, quadriplegic developer.
 - 📫 Contact me at *[andersonsamueloliveira@outlook.com](mailto:andersonsamueloliveira@outlook.com)*.
 
-<p align='center'>
-<a href='https://html.com/'>
-<img src="https://skillicons.dev/icons?i=html"/>
-</a>
-<a href='https://www.w3.org/Style/CSS/Overview.en.html'>
-<img src="https://skillicons.dev/icons?i=css"/>
-</a>
-<a href='https://www.javascript.com/'>
-<img src="https://skillicons.dev/icons?i=js"/>
-</a>
-<a href='https://www.typescriptlang.org/'>
-<img src="https://skillicons.dev/icons?i=ts"/>
-</a>
-<a href='https://nodejs.org/en/'>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</a>
-<a href='https://reactjs.org/'>
-<img src="https://skillicons.dev/icons?i=react"/>
-</a>
-<a href='https://tailwindui.com/'>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-</a>
-<a href='https://vitejs.dev/'>
-<img src="https://skillicons.dev/icons?i=vite"/>
-</a>
-</p>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td  valign='top' align="center" width="50%">
+<br/>
 
-## Interested in Learning
+## Techs
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
-<a href='https://www.prisma.io/'>
-<img src="https://skillicons.dev/icons?i=prisma"/>
-</a>
-<a href='https://nextjs.org/'>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-</a>
-<a href='https://www.apollographql.com/'>
-<img src="https://skillicons.dev/icons?i=apollo"/>
-</a>
-<a href='https://graphql.org/'>
-<img src="https://skillicons.dev/icons?i=graphql"/>
-</a>
-<a href='https://www.figma.com/'>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</a>
-</td>
-<td rowspan="2" valign='top' align="center" width="50%">
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+<br/>
 
-## Dev Cards
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 
-<a href="https://app.daily.dev/anderoliveira"><img src="https://api.daily.dev/devcards/5486873aa8374b2e832696033d9d92d7.png?r=tw7" width="300" alt="Anderson Samuel Oliveira's Dev Card"/></a>
+### Database
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
 
-</td>
-</tr>
-<tr>
-<td align="center" valign='top' width="50%">
+### Deploy
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andersamuel&theme=react&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersamuel&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</td>
-</tr>
-</tbody>
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
