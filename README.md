@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-- ♿ I am 25 years old.
+- ♿ I am 26 years old.
 - 📫 Contact me at *[smuckanderson@gmail.com](mailto:smuckanderson@gmail.com)*.
 
 ## Techs
