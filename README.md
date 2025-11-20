@@ -8,9 +8,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp; -->
 <p>
-<a href="https://www.javascript.com/">
-<img src="https://skillicons.dev/icons?i=js"/>
-</a>
 <a href="https://www.typescriptlang.org/">
 <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
@@ -27,20 +24,11 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp; -->
 <p>
-<a href="https://www.html.com/">
-<img src="https://skillicons.dev/icons?i=html"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-<img src="https://skillicons.dev/icons?i=css"/>
-</a>
 <a href="https://tailwindcss.com/">
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 </a>
 <a href="https://reactjs.org/">
 <img src="https://skillicons.dev/icons?i=react"/>
-</a>
-<a href="https://vite.dev/">
-<img src="https://skillicons.dev/icons?i=vite"/>
 </a>
 <a href="https://nextjs.org/">
 <img src="https://skillicons.dev/icons?i=nextjs"/>
