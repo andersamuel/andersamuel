@@ -7,6 +7,13 @@
 <a href="https://reactjs.org/">
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
+
+
+
+
+
+
+
 <a href="https://www.typescriptlang.org/">
 <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
